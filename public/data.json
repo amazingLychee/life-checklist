@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "textKey": "task_1",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "textKey": "task_2",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "textKey": "task_3",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "textKey": "task_4",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "textKey": "task_5",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "textKey": "task_6",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "textKey": "task_7",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "textKey": "task_8",
+    "completed": false
+  }
+]
