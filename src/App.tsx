@@ -79,7 +79,7 @@ function App() {
         className="text-5xl text-center font-bold my-20"
       />
 
-      <h1 className="text-5xl text-center font-bold my-20">{t('title')}</h1>
+      {/*<h1 className="text-5xl text-center font-bold my-20">{t('title')}</h1>*/}
       <div className="flex justify-between">
         <div>
           <Button
